@@ -1,8 +1,9 @@
 
 export default function Home() {
+  console.log('Dash');
   return (
     <main className="">
-      <h1>Hello, Home page!</h1>
+      <h1>Hello, Dash page!</h1>
     </main>
   );
 }
